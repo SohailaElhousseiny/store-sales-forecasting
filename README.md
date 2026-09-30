@@ -1,6 +1,22 @@
 
 📊 Store Sales Forecasting
 
+
+🚀 Live Demo
+
+The project includes an interactive Streamlit dashboard for exploring historical monthly sales and generating future sales predictions.
+
+Dashboard Features
+
+- 📊 Historical monthly sales visualization
+- 💰 Sales performance KPIs
+- 🔮 Monthly sales forecasting
+- 📅 Year, month, and quarter selection
+- 📈 Previous-month sales as forecasting features
+- 🤖 Random Forest Regression model
+- 🖥️ Interactive Streamlit interface
+ss
+
 A Machine Learning project that analyzes historical store sales data and predicts future monthly sales using Random Forest Regression.
 
 🎯 Project Overview
